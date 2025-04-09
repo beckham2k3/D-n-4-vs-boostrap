@@ -10,3 +10,8 @@
 .copyright{
     background: #000;
 }
+
+.sticky-footer{
+    background-color: #cccccc2f;
+    backdrop-filter: blur(8px);
+}
